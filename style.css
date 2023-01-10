@@ -1,11 +1,128 @@
 body{
-    background-color: aqua;
-}
-h1{
-    
-    padding-top: 31px;
-    font-size: 29PX;
-    font-family: -webkit-pictograph;
-    letter-spacing: 5px;
-    color: black;
-}
+    background : url("fond.jpg") ;
+    background-size : cover ;
+    height: 450px;
+ }
+ 
+ .header{
+    background-color: rosybrown;
+    height: 80px;
+    margin: 10px;
+    border-radius: 15px ;
+ }
+ 
+ 
+ fieldset{
+ padding-top: 150px;
+ text-align : center;
+ height: 225px;
+ width : 450px;
+ background-color : #CE642B;
+ top : 15% ;
+ left : 32% ;
+ font-weight : bold;
+ position : absolute;
+ }
+ .menu li{
+    float: left;
+    padding: 35px;
+ }
+ 
+ .menu li a{
+     text-decoration: none;
+ }
+ 
+ form {
+    padding: 35px;
+    text-align: right;
+ }
+ 
+ input[type="search"]{
+    font-size: 17px;
+ }
+ 
+ a.bouton1 {
+ padding: 3px 30px;
+ background: #32CD32;
+ color: #fff;
+ border-radius: 15px;
+ }
+ a.bouton1:hover {
+ background: red;
+ }
+ 
+ .login{
+         width: 382px;
+         overflow: hidden;
+         margin: auto;
+         margin: 20 0 0 450px;
+         padding: 80px;
+         background: #8B4513;
+         border-radius: 15px ;
+ 
+ }
+ h2{
+     text-align: center;
+     color: #277582;
+     padding: 20px;
+ }
+ label{
+     color: #08ffd1;
+     font-size: 17px;
+ }
+ #Uname{
+     width: 300px;
+     height: 30px;
+     border: none;
+     border-radius: 3px;
+     padding-left: 8px;
+ }
+ #Pass{
+     width: 300px;
+     height: 30px;
+     border: none;
+     border-radius: 3px;
+     padding-left: 8px;
+ 
+ }
+ #log{
+     width: 300px;
+     height: 30px;
+     border: none;
+     border-radius: 17px;
+     padding-left: 7px;
+     color: blue;
+     background-color: #32CD32;
+ 
+ }
+ span{
+     color: white;
+     font-size: 17px;
+ }
+ a{
+     float: right;
+ }
+ 
+ table
+ {
+     color: white;
+     overflow: hidden;
+     margin: auto;
+     margin: 5 0 0 40px;
+     padding: 0px;
+     border-radius: 15px ;
+     border-collapse: collapse;
+     background-color: #CD853F;
+ }
+ td, th
+ {
+     border: 1px solid black;
+ }
+ h1{
+   color : white;
+ }
+ 
+ .formlog{
+   align-content: center;
+   padding-right : 600px;
+ }
