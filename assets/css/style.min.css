@@ -1,0 +1,23 @@
+
+.col-size {
+  width: 500%;
+  padding: 50% 0 0 0 !important;
+  background: #d27212b3;
+}
+.vert-center {
+	position: absolute !important;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.vert-center p {
+	font-size: 24px;
+	color: rgb(12, 12, 12);
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px
+}

@@ -11,12 +11,40 @@
 
 <body>
 
+
+    <div class="ai-preloader active">
+        <div class="ai-preloader-inner h-100 d-flex align-items-center justify-content-center">
+            <div class="ai-child ai-bounce1"></div>
+            <div class="ai-child ai-bounce2"></div>
+            <div class="ai-child ai-bounce3"></div>
+        </div>
+    </div>
+
     <!-- Main Wrapper Start -->
     <div class="wrapper">
         
     <?php include_once('navbar.php') ?>
 
 
+    <div class="container mt-5" >
+    <div class="col-12 text-center" style=" margin-top: 10%">
+                        <h1 class="page-title">Our Gallery Collection</h1>
+                        <ul class="breadcrumb justify-content-center">
+                            <li>keep one step ahead in effortless style</li>
+                          
+                        </ul>
+                    </div>
+            <div class="row col-md-12" style="z-index: -10">
+                <div class="col-md-6">
+                           <img src="assets/img/products/img1.jpg" alt="">
+             </div>
+               <div class="col-md-6">
+                        <div class="col-md-12"><img src="assets/img/products/img2.jpg" alt="" height="150px"></div>
+                        <div class="col-md-12"><img src="assets/img/products/img3.jpg" alt="" height="150px"></div>
+                </div>
+            </div>
+     </div>
+   
     
       
         <!-- Mobile Header area End -->
@@ -26,14 +54,9 @@
             <div class="container-fluid mt--145">
                 <div class="row">
                     <div class="col-12 text-center">
-                        
-                        <div class="float">
-                        <div class="carre" style="background-color:rgb(235, 150, 32);"></div>
-                        </div>
                         <h1 class="page-title">Our Gallery Collection</h1>
                         <ul class="breadcrumb justify-content-center">
-                            <li>We believe that every pair is like a
-dream come true. Less is More</li>
+                            <li>keep one step ahead in effortless style</li>
                           
                         </ul>
                     </div>
