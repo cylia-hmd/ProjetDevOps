@@ -6,6 +6,18 @@
     <div class="header-inner fixed-header">
         <div class="container-fluid">
             <div class="row align-items-center">
+               <div class="col-lg-2 col-md-3 col-4 text-lg-center">
+                    <!-- Logo Start Here -->
+                    <a href="index.html" class="logo-box">
+                        <figure class="logo--normal">
+                            <img src="assets/img/logo.png" alt="Logo" />
+                        </figure>
+                        <figure class="logo--transparency">
+                            <img src="assets/img/logo.png" alt="Logo" />
+                        </figure>
+                    </a>
+                    <!-- Logo End Here -->
+                </div>
                 <div class="col-xl-5 col-lg-6">
                     <!-- Main Navigation Start Here -->
                     <nav class="main-navigation">
@@ -39,24 +51,11 @@
                     </nav>
                     <!-- Main Navigation End Here -->
                 </div>
-                <div class="col-lg-2 col-md-3 col-4 text-lg-center">
-                    <!-- Logo Start Here -->
-                    <a href="index.html" class="logo-box">
-                        <figure class="logo--normal">
-                            <img src="assets/img/logo.svg" alt="Logo" />
-                        </figure>
-                        <figure class="logo--transparency">
-                            <img src="assets/img/logo-white.webp" alt="Logo" />
-                        </figure>
-                    </a>
-                    <!-- Logo End Here -->
-                </div>
                 <div class="col-xl-5 col-lg-4 col-md-9 col-8">
                     <ul class="header-toolbar text-end">
                      <li class="header-toolbar__item">
                             <a href="#miniCart" class="mini-cart-btn toolbar-btn">
                                 <i class="fa fa-heart"></i>
-                                <sup class="mini-cart-count">2</sup>
                             </a>
                         </li>
                       

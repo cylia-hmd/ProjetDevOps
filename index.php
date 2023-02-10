@@ -38,12 +38,12 @@
                             <li data-index="rs-4" data-transition="random-premium" data-slotamount="default"
                                 data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
                                 data-easeout="default" data-masterspeed="default"
-                                data-thumb="assets/img/slider/100x50_m2-s1-1.webp" data-rotate="0"
+                                data-thumb="assets/img/slider/1.jpg" data-rotate="0"
                                 data-saveperformance="off" data-title="01" data-param1="" data-param2="" data-param3=""
                                 data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                                 data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="assets/img/slider/m2-s1-1.webp" alt="" data-bgposition="center center"
+                                <img src="assets/img/slider/1.jpg" alt="" data-bgposition="center center"
                                     data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
                                     data-no-retina>
                                 <!-- LAYERS -->
@@ -150,12 +150,12 @@
                             <li data-index="rs-5" data-transition="random-premium" data-slotamount="default"
                                 data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
                                 data-easeout="default" data-masterspeed="default"
-                                data-thumb="assets/img/slider/100x50_m2-s2-1.webp" data-rotate="0"
+                                data-thumb="assets/img/slider/2.jpg" data-rotate="0"
                                 data-saveperformance="off" data-title="02" data-param1="" data-param2="" data-param3=""
                                 data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                                 data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="assets/img/slider/m2-s2-1.webp" alt="" data-bgposition="center center"
+                                <img src="assets/img/slider/2.jpg" alt="" data-bgposition="center center"
                                     data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
                                     data-no-retina>
                                 <!-- LAYERS -->
@@ -254,12 +254,12 @@
                             <li data-index="rs-6" data-transition="random-premium" data-slotamount="default"
                                 data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
                                 data-easeout="default" data-masterspeed="default"
-                                data-thumb="assets/img/slider/100x50_m2-s3-1.webp" data-rotate="0"
+                                data-thumb="assets/img/slider/3.jpg" data-rotate="0"
                                 data-saveperformance="off" data-title="03" data-param1="" data-param2="" data-param3=""
                                 data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                                 data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="assets/img/slider/m2-s3-1.webp" alt="" data-bgposition="center center"
+                                <img src="assets/img/slider/3.jpg" alt="" data-bgposition="center center"
                                     data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
                                     data-no-retina>
                                 <!-- LAYERS -->
