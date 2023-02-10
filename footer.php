@@ -7,7 +7,7 @@
                         <div class="footer-widget mb--15">
                             <div class="textwidget">
                                 <a href="index.html" class="footer-logo">
-                                    <img src="assets/img/logo/logo.svg" alt="Logo">
+                                    <img src="assets/img/products/logo.png" alt="Logo">
                                 </a>
                             </div>
                         </div>
@@ -17,15 +17,15 @@
                             <ul class="contact-info contact-info--2">
                                 <li class="contact-info__item">
                                     <i class="fa fa-phone"></i>
-                                    <span><a href="tel:+012345 6788" class="contact-info__link">(+012) 345 6788</a></span>
+                                    <span><a href="tel:+012345 6788" class="contact-info__link">(+33)6 76 89 23 51</a></span>
                                 </li>
                                 <li class="contact-info__item">
                                     <i class="fa fa-envelope"></i>
-                                    <span><a href="mailto:demo@email.com" class="contact-info__link">demo@email.com</a></span>
+                                    <span><a href="mailto:passionesgallery@email.com" class="contact-info__link">passionesgallery@email.com</a></span>
                                 </li>
                                 <li class="contact-info__item">
                                     <i class="fa fa-map-marker"></i>
-                                    <span>Example Address</span>
+                                    <span>3 rue Belleville , 75016 Paris</span>
                                 </li>
                             </ul>
                         </div>
@@ -64,7 +64,7 @@
                 </div>
                 <div class="row pt--15 pb--15">
                     <div class="col-12 text-center">
-                        <p class="copyright-text">&copy; 2018 AIRI All rights reserved. Designed by LA-STUDIO</p>
+                        <p class="copyright-text">&copy; 2023 All rights reserved. Designed by DevOps</p>
                     </div>
                 </div>
             </div>

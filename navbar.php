@@ -4,6 +4,7 @@
 
 <div class="header-outer">
     <div class="header-inner fixed-header">
+    
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-xl-5 col-lg-6">
@@ -43,10 +44,10 @@
                     <!-- Logo Start Here -->
                     <a href="index.html" class="logo-box">
                         <figure class="logo--normal">
-                            <img src="assets/img/logo.svg" alt="Logo" />
+                            <img src="assets/img/products/logo.png" alt="Logo" />
                         </figure>
                         <figure class="logo--transparency">
-                            <img src="assets/img/logo-white.webp" alt="Logo" />
+                            <img src="assets/img/products/logo.png" alt="Logo" />
                         </figure>
                     </a>
                     <!-- Logo End Here -->
@@ -62,15 +63,15 @@
                       
                         <li class="header-toolbar__item user-info-menu-btn">
                             <a href="#"> 
-                                <i class="fa fa-user-circle-o"> Nadia</i>
+                                <i class="fa fa-user-circle-o"> Account </i>
                             </a>
                              <ul class="user-info-menu">
                                 <li>
-                                    <a href="login_register.php">My Account</a>
+                                    <a href="connexion.html">My Account</a>
                                 </li>
                         
                                 <li>
-                                    <a href="wishlist.html">Logout</a>
+                                    <a href="login_register.php">Login or Register</a>
                                 </li>
                           
                             </ul>
