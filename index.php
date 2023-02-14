@@ -336,7 +336,7 @@
         <!-- Main Content Wrapper Start -->
         <?php include_once('footer.php') ?>
     
-    </div>
+        </div>
     <!-- Main Wrapper End -->
 
     <?php include_once('scripts.php') ?>
