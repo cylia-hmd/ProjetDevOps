@@ -7,10 +7,22 @@
     
         <div class="container-fluid">
             <div class="row align-items-center">
-                <div class="col-xl-5 col-lg-6">
+              <div class="col-lg-2 col-md-3 col-4 text-lg-center">
+                    <!-- Logo Start Here -->
+                    <a href="index.html" class="logo-box">
+                        <figure class="logo--normal">
+                            <img src="assets/img/products/logo.png" alt="Logo" height="90px"/>
+                        </figure>
+                        <figure class="logo--transparency">
+                            <img src="assets/img/products/logo.png" alt="Logo" height="90px"/>
+                        </figure>
+                    </a>
+                    <!-- Logo End Here -->
+                </div>
+                <div class="col-xl-8 col-lg-8">
                     <!-- Main Navigation Start Here -->
                     <nav class="main-navigation">
-                        <ul class="mainmenu">
+                        <ul class="mainmenu text-end">
                             <li class="mainmenu__item menu-item-has-children megamenu-holder">
                                 <a href="index.php" class="mainmenu__link">
                                     <span class="mm-text">Home</span>
@@ -35,24 +47,27 @@
                                 </a>
               
                             </li>
-                    
+                            <li class="mainmenu__item menu-item-has-children has-children">
+                                
+                            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                            Login
+                         </button>
+                      
+              
+                            </li>
+                            <li class="mainmenu__item menu-item-has-children has-children">
+                              
+                                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#registerBackdrop">
+                                Register
+                                </button>
+                            </li>
                         </ul>
                     </nav>
                     <!-- Main Navigation End Here -->
                 </div>
-                <div class="col-lg-2 col-md-3 col-4 text-lg-center">
-                    <!-- Logo Start Here -->
-                    <a href="index.html" class="logo-box">
-                        <figure class="logo--normal">
-                            <img src="assets/img/products/logo.png" alt="Logo" />
-                        </figure>
-                        <figure class="logo--transparency">
-                            <img src="assets/img/products/logo.png" alt="Logo" />
-                        </figure>
-                    </a>
-                    <!-- Logo End Here -->
-                </div>
-                <div class="col-xl-5 col-lg-4 col-md-9 col-8">
+        
+                <!-- display only when login -->
+                <div class="col-xl-2 col-lg-2 col-md-4 d-none">
                     <ul class="header-toolbar text-end">
                      <li class="header-toolbar__item">
                             <a href="#miniCart" class="mini-cart-btn toolbar-btn">
@@ -67,19 +82,17 @@
                             </a>
                              <ul class="user-info-menu">
                                 <li>
-                                    <a href="connexion.html">My Account</a>
+                                    <a href="profile.php">My Account</a>
                                 </li>
-                        
-                                <li>
-                                    <a href="login_register.php">Login or Register</a>
-                                </li>
-                          
                             </ul>
                         </li>
                        
                  
                     </ul>
                 </div>
+      <!-- end of display only when login -->
+
+
             </div>
         </div>
     </div>
@@ -97,7 +110,7 @@
                 <div class="col-4">
                     <a href="index.html" class="logo-box">
                         <figure class="logo--normal">
-                            <img src="assets/img/logo/logo.svg" alt="Logo">
+                            <img src="assets/img/products/logo.png" alt="Logo" height="70px">
                         </figure>
                     </a>
                 </div>
@@ -133,7 +146,7 @@
                         <button class="dl-trigger">Open Menu</button>
                         <ul class="dl-menu">
                             <li>
-                                <a href="index.html">
+                                <a href="index.php">
                                     Home
                                 </a>
                      
@@ -143,7 +156,7 @@
                                     Shop
                                
                                 </a>
-               
+                                </li>
                     </div>
                     <!-- Mobile Navigation End Here -->
                 </div>
