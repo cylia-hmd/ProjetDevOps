@@ -25,7 +25,7 @@
             
                             </li>
                             <li class="mainmenu__item">
-                                <a href="about.html" class="mainmenu__link">
+                                <a href="about.php" class="mainmenu__link">
                                     <span class="mm-text">About</span>
                                 </a>
                             </li>
