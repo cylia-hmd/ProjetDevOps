@@ -19,12 +19,18 @@
     </div>
 
     <!-- Main Wrapper Start -->
-    <div class="wrapper enable-header-transparent">
+
        
     <?php include_once('navbar.php') ?>
   
 
         <!-- Main Content Wrapper Start -->
+
+        <!-- Main Content Wrapper Start -->
+
+    
+        </div>
+    <!-- Main Wrapper End -->
         <div id="content" class="main-content-wrapper">
             <div class="homepage-slider">
                 <div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container"
@@ -333,12 +339,10 @@
             </div>
 
         </div>
-        <!-- Main Content Wrapper Start -->
-        <?php include_once('footer.php') ?>
-    
-        </div>
-    <!-- Main Wrapper End -->
 
+
+
+    <?php include_once('footer.php') ?>    
     <?php include_once('scripts.php') ?>
 
 
