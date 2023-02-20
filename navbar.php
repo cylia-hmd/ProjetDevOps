@@ -25,25 +25,25 @@
                         <ul class="mainmenu text-end">
                             <li class="mainmenu__item menu-item-has-children megamenu-holder">
                                 <a href="index.php" class="mainmenu__link">
-                                    <span class="mm-text">Home</span>
+                                    <span style="color:black" class="mm-text">Home</span>
                                 </a>
                  
                             </li>
                             <li class="mainmenu__item menu-item-has-children">
                                 <a href="gallery.php" class="mainmenu__link">
-                                    <span class="mm-text">Gallery</span>
+                                    <span style="color:black" class="mm-text">Gallery</span>
                                   
                                 </a>
             
                             </li>
                             <li class="mainmenu__item">
                                 <a href="about.php" class="mainmenu__link">
-                                    <span class="mm-text">About</span>
+                                    <span style="color:black" class="mm-text">About</span>
                                 </a>
                             </li>
                             <li class="mainmenu__item menu-item-has-children has-children">
                                 <a href="#" class="mainmenu__link">
-                                    <span class="mm-text">Favoris</span>
+                                    <span style="color:black" class="mm-text">Favoris</span>
                                 </a>
               
                             </li>

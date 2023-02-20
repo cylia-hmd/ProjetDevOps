@@ -42,7 +42,7 @@
                                 data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                                 data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="assets/img/products/background.jpg" alt="" data-bgposition="center center"
+                                <img src="assets/img/products/slide_1.jpg" alt="" data-bgposition="center center"
                                     data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
                                     data-no-retina>
                                 <!-- LAYERS -->
@@ -92,7 +92,7 @@
                                         data-paddingtop="[,,,]" data-paddingright="[,,,]" data-paddingbottom="[,,,]"
                                         data-paddingleft="[,,,]"
                                         style="z-index: 7; white-space: nowrap; font-size: 64px; line-height: 85px; font-weight: 400; color: #282828; letter-spacing: 0px;font-family:Playfair Display;font-style:italic;">
-                                        Printed Bermuda
+                                        Gallery Collection
                                     </div>
 
                                     <!-- LAYER NR. 4 -->
@@ -126,7 +126,7 @@
                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                         style="z-index: 9; white-space: nowrap; font-size: 93px; line-height: 115px; font-weight: 700; color: #282828; letter-spacing: 12px;font-family:Montserrat;">
-                                        SHORTS </div>
+                                        Shoes</div>
 
                                     <!-- LAYER NR. 6 -->
                                     <a class="tp-caption LA_Black_btn rev-btn " href="shop-sidebar.html"
@@ -141,7 +141,7 @@
                                         data-textAlign="['inherit','inherit','inherit','inherit']"
                                         data-paddingtop="[15,15,15,12]" data-paddingright="[45,45,45,35]"
                                         data-paddingbottom="[15,15,15,12]" data-paddingleft="[45,45,45,35]"
-                                        style="z-index: 10; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Shop
+                                        style="z-index: 10; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">View
                                         Now </a>
                                 </div>
                             </li>
@@ -154,7 +154,7 @@
                                 data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                                 data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="assets/img/slider/2.jpg" alt="" data-bgposition="center center"
+                                <img src="assets/img/products/slide_2.jpg" alt="" data-bgposition="center center"
                                     data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
                                     data-no-retina>
                                 <!-- LAYERS -->
@@ -200,7 +200,7 @@
                                         data-paddingtop="[,,,]" data-paddingright="[,,,]" data-paddingbottom="[,,,]"
                                         data-paddingleft="[,,,]"
                                         style="z-index: 7; white-space: nowrap; font-size: 69px; line-height: 92px; font-weight: 700; color: #282828; letter-spacing: 0px;font-family:Playfair Display;font-style:italic;">
-                                        Autumn/ Winter </div>
+                                        Chanel / Prada </div>
 
                                     <!-- LAYER NR. 10 -->
                                     <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-5-layer-4"
@@ -230,7 +230,7 @@
                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                         style="z-index: 9; white-space: nowrap; font-size: 69px; line-height: 84px; font-weight: 600; color: #282828; font-family:Montserrat;">
-                                        OFF 30% </div>
+                                        2023 Co </div>
 
                                     <!-- LAYER NR. 12 -->
                                     <a class="tp-caption LA_Black_btn rev-btn " href="shop-sidebar.html"
@@ -245,7 +245,7 @@
                                         data-textAlign="['inherit','inherit','inherit','inherit']"
                                         data-paddingtop="[15,15,15,12]" data-paddingright="[45,45,45,34]"
                                         data-paddingbottom="[15,15,15,12]" data-paddingleft="[45,45,45,35]"
-                                        style="z-index: 10; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Shop
+                                        style="z-index: 10; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">View
                                         Now </a>
                                 </div>
                             </li>
@@ -258,7 +258,7 @@
                                 data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                                 data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="assets/img/slider/3.jpg" alt="" data-bgposition="center center"
+                                <img src="assets/img/products/slide_3.jpg" alt="" data-bgposition="center center"
                                     data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
                                     data-no-retina>
                                 <!-- LAYERS -->
@@ -289,8 +289,8 @@
                                         data-textAlign="['inherit','inherit','inherit','inherit']"
                                         data-paddingtop="[,,,]" data-paddingright="[,,,]" data-paddingbottom="[,,,]"
                                         data-paddingleft="[,,,]"
-                                        style="z-index: 6; white-space: nowrap; font-size: 50px; line-height: 67px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;font-style:italic;">
-                                        Sunglasses Woman </div>
+                                        style="z-index: 6; white-space: nowrap; font-size: 50px; line-height: 67px; font-weight: 400; color: #000; letter-spacing: 0px;font-family:Playfair Display;font-style:italic;">
+                                        Footwear Woman </div>
 
                                     <!-- LAYER NR. 15 -->
                                     <div class="tp-caption   tp-resizeme" id="slide-6-layer-5"
@@ -305,8 +305,8 @@
                                         data-textAlign="['inherit','inherit','inherit','inherit']"
                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                                        style="z-index: 7; white-space: nowrap; font-size: 123px; line-height: 150px; font-weight: 600; color: #ffffff; font-family:Montserrat;">
-                                        SALE 20% </div>
+                                        style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 50px; font-weight: 400; color: #000; font-family:Montserrat;">
+                                        Luxury Shoes </div>
 
                                     <!-- LAYER NR. 16 -->
                                     <a class="tp-caption LA_White_btn rev-btn " href="shop-sidebar.html"
@@ -321,7 +321,7 @@
                                         data-textAlign="['inherit','inherit','inherit','inherit']"
                                         data-paddingtop="[15,15,15,12]" data-paddingright="[45,45,45,35]"
                                         data-paddingbottom="[15,15,15,12]" data-paddingleft="[45,45,45,35]"
-                                        style="z-index: 8; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Shop
+                                        style="z-index: 8; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">View
                                         Now </a>
                                 </div>
                             </li>
