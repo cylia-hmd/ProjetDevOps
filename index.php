@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -38,12 +37,12 @@
                             <li data-index="rs-4" data-transition="random-premium" data-slotamount="default"
                                 data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
                                 data-easeout="default" data-masterspeed="default"
-                                data-thumb="assets/img/products/dior.jpg" data-rotate="0"
+                                data-thumb="assets/img/slider/1.jpg" data-rotate="0"
                                 data-saveperformance="off" data-title="01" data-param1="" data-param2="" data-param3=""
                                 data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                                 data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="assets/img/products/img5.jpg" alt="" data-bgposition="center center"
+                                <img src="assets/img/products/slide_1.jpg" alt="" data-bgposition="center center"
                                     data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
                                     data-no-retina>
                                 <!-- LAYERS -->
@@ -61,8 +60,8 @@
                                     data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                     data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                     style="z-index: 5; min-width: 740px; max-width: 740px; max-width: 380px; max-width: 380px; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
-                                 <!-- LAYER NR. 2 -->
-                                 <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-4-layer-3"
+                                    <!-- LAYER NR. 2 -->
+                                    <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-4-layer-3"
                                         data-x="['left','left','left','left']" data-hoffset="['0','0','0','0']"
                                         data-y="['top','top','top','top']" data-voffset="['0','0','0','0']"
                                         data-width="['640','640','430','343']" data-height="['130','130','80','60']"
@@ -93,7 +92,7 @@
                                         data-paddingtop="[,,,]" data-paddingright="[,,,]" data-paddingbottom="[,,,]"
                                         data-paddingleft="[,,,]"
                                         style="z-index: 7; white-space: nowrap; font-size: 64px; line-height: 85px; font-weight: 400; color: #282828; letter-spacing: 0px;font-family:Playfair Display;font-style:italic;">
-                                        SHOES Collection 
+                                        Gallery Collection
                                     </div>
 
                                     <!-- LAYER NR. 4 -->
@@ -127,10 +126,10 @@
                                         data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
                                         data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                                         style="z-index: 9; white-space: nowrap; font-size: 93px; line-height: 115px; font-weight: 700; color: #282828; letter-spacing: 12px;font-family:Montserrat;">
-                                         Gallery</div>
+                                        Shoes</div>
 
                                     <!-- LAYER NR. 6 -->
-                                    <a class="tp-caption LA_Black_btn rev-btn " href="gallery.php"
+                                    <a class="tp-caption LA_Black_btn rev-btn " href="shop-sidebar.html"
                                         id="slide-4-layer-6" data-x="['left','left','left','left']"
                                         data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
                                         data-voffset="['280','280','180','140']" data-width="none" data-height="none"
@@ -142,11 +141,190 @@
                                         data-textAlign="['inherit','inherit','inherit','inherit']"
                                         data-paddingtop="[15,15,15,12]" data-paddingright="[45,45,45,35]"
                                         data-paddingbottom="[15,15,15,12]" data-paddingleft="[45,45,45,35]"
-                                        style="z-index: 10; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-                                        Get to the Gallery</a>
+                                        style="z-index: 10; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">View
+                                        Now </a>
                                 </div>
                             </li>
-                            
+                            <!-- SLIDE  -->
+                            <li data-index="rs-5" data-transition="random-premium" data-slotamount="default"
+                                data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
+                                data-easeout="default" data-masterspeed="default"
+                                data-thumb="assets/img/slider/2.jpg" data-rotate="0"
+                                data-saveperformance="off" data-title="02" data-param1="" data-param2="" data-param3=""
+                                data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+                                data-param9="" data-param10="" data-description="">
+                                <!-- MAIN IMAGE -->
+                                <img src="assets/img/products/slide_2.jpg" alt="" data-bgposition="center center"
+                                    data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
+                                    data-no-retina>
+                                <!-- LAYERS -->
+
+                                <!-- LAYER NR. 7 -->
+                                <div class="tp-caption     rev_group" id="slide-5-layer-1"
+                                    data-x="['left','left','left','left']" data-hoffset="['370','370','50','50']"
+                                    data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                                    data-width="['740','740','518','355']" data-height="['380','380','238','190']"
+                                    data-whitespace="nowrap" data-type="group" data-responsive_offset="on"
+                                    data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                    data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                    data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                    data-textAlign="['inherit','inherit','inherit','inherit']"
+                                    data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                    data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                    style="z-index: 5; min-width: 740px; max-width: 740px; max-width: 380px; max-width: 380px; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
+                                    <!-- LAYER NR. 8 -->
+                                    <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-5-layer-3"
+                                        data-x="['left','left','left','left']" data-hoffset="['0','0','0','0']"
+                                        data-y="['top','top','top','top']" data-voffset="['0','0','0','0']"
+                                        data-width="['640','640','465','330']" data-height="['130','130','80','60']"
+                                        data-whitespace="nowrap" data-type="shape" data-responsive_offset="on"
+                                        data-frames='[{"delay":"+390","speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                                        data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                        data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                        data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                        style="z-index: 6;background-color:rgb(255,255,255);"> </div>
+
+                                    <!-- LAYER NR. 9 -->
+                                    <div class="tp-caption   tp-resizeme" id="slide-5-layer-2"
+                                        data-x="['left','left','left','left']" data-hoffset="['50','50','40','30']"
+                                        data-y="['top','top','top','top']" data-voffset="['14','14','13','7']"
+                                        data-fontsize="['69','69','50','36']" data-lineheight="['92','92','50','40']"
+                                        data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                                        data-responsive_offset="on"
+                                        data-frames='[{"delay":"+990","speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                                        data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                        data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[,,,]" data-paddingright="[,,,]" data-paddingbottom="[,,,]"
+                                        data-paddingleft="[,,,]"
+                                        style="z-index: 7; white-space: nowrap; font-size: 69px; line-height: 92px; font-weight: 700; color: #282828; letter-spacing: 0px;font-family:Playfair Display;font-style:italic;">
+                                        Chanel / Prada </div>
+
+                                    <!-- LAYER NR. 10 -->
+                                    <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-5-layer-4"
+                                        data-x="['left','left','left','left']" data-hoffset="['0','0','2','2']"
+                                        data-y="['top','top','top','top']" data-voffset="['140','140','90','70']"
+                                        data-width="['410','410','305','220']" data-height="['130','130','80','60']"
+                                        data-whitespace="nowrap" data-type="shape" data-responsive_offset="on"
+                                        data-frames='[{"delay":"+1490","speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                                        data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                        data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                        data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                        style="z-index: 8;background-color:rgb(255,255,255);"> </div>
+
+                                    <!-- LAYER NR. 11 -->
+                                    <div class="tp-caption   tp-resizeme" id="slide-5-layer-5"
+                                        data-x="['left','left','left','left']" data-hoffset="['50','50','40','30']"
+                                        data-y="['top','top','top','top']" data-voffset="['162','162','105','80']"
+                                        data-fontsize="['69','69','50','36']" data-lineheight="['84','84','50','40']"
+                                        data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                                        data-responsive_offset="on"
+                                        data-frames='[{"delay":"+2090","speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                                        data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                        data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                        data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                        style="z-index: 9; white-space: nowrap; font-size: 69px; line-height: 84px; font-weight: 600; color: #282828; font-family:Montserrat;">
+                                        2023 Co </div>
+
+                                    <!-- LAYER NR. 12 -->
+                                    <a class="tp-caption LA_Black_btn rev-btn " href="shop-sidebar.html"
+                                        id="slide-5-layer-6" data-x="['left','left','left','left']"
+                                        data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
+                                        data-voffset="['280','280','180','140']" data-width="none" data-height="none"
+                                        data-whitespace="nowrap" data-type="button" data-responsive_offset="on"
+                                        data-responsive="off"
+                                        data-frames='[{"delay":"+2590","speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"200","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(207,152,126);bs:solid;bw:0 0 0 0;"}]'
+                                        data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                        data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[15,15,15,12]" data-paddingright="[45,45,45,34]"
+                                        data-paddingbottom="[15,15,15,12]" data-paddingleft="[45,45,45,35]"
+                                        style="z-index: 10; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">View
+                                        Now </a>
+                                </div>
+                            </li>
+                            <!-- SLIDE  -->
+                            <li data-index="rs-6" data-transition="random-premium" data-slotamount="default"
+                                data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
+                                data-easeout="default" data-masterspeed="default"
+                                data-thumb="assets/img/slider/3.jpg" data-rotate="0"
+                                data-saveperformance="off" data-title="03" data-param1="" data-param2="" data-param3=""
+                                data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+                                data-param9="" data-param10="" data-description="">
+                                <!-- MAIN IMAGE -->
+                                <img src="assets/img/products/slide_3.jpg" alt="" data-bgposition="center center"
+                                    data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg"
+                                    data-no-retina>
+                                <!-- LAYERS -->
+
+                                <!-- LAYER NR. 13 -->
+                                <div class="tp-caption     rev_group" id="slide-6-layer-1"
+                                    data-x="['left','left','left','left']" data-hoffset="['380','380','59','40']"
+                                    data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-1','-1']"
+                                    data-width="['715','715','509','368']" data-height="['297','297','249','194']"
+                                    data-whitespace="nowrap" data-type="group" data-responsive_offset="on"
+                                    data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                    data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                    data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                    data-textAlign="['inherit','inherit','inherit','inherit']"
+                                    data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                    data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                    style="z-index: 5; min-width: 715px; max-width: 715px; max-width: 297px; max-width: 297px; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
+                                    <!-- LAYER NR. 14 -->
+                                    <div class="tp-caption   tp-resizeme" id="slide-6-layer-2"
+                                        data-x="['left','left','left','left']" data-hoffset="['0','0','0','0']"
+                                        data-y="['top','top','top','top']" data-voffset="['0','0','-1','-5']"
+                                        data-fontsize="['50','50','40','30']" data-lineheight="['67','67','50','40']"
+                                        data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                                        data-responsive_offset="on"
+                                        data-frames='[{"delay":"+390","speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                                        data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                        data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[,,,]" data-paddingright="[,,,]" data-paddingbottom="[,,,]"
+                                        data-paddingleft="[,,,]"
+                                        style="z-index: 6; white-space: nowrap; font-size: 50px; line-height: 67px; font-weight: 400; color: #000; letter-spacing: 0px;font-family:Playfair Display;font-style:italic;">
+                                        Footwear Woman </div>
+
+                                    <!-- LAYER NR. 15 -->
+                                    <div class="tp-caption   tp-resizeme" id="slide-6-layer-5"
+                                        data-x="['left','left','left','left']" data-hoffset="['0','0','0','0']"
+                                        data-y="['top','top','top','top']" data-voffset="['61','61','60','41']"
+                                        data-fontsize="['123','123','90','70']"
+                                        data-lineheight="['150','150','100','80']" data-width="none" data-height="none"
+                                        data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                                        data-frames='[{"delay":"+890","speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                                        data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                        data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
+                                        data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                        style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 50px; font-weight: 400; color: #000; font-family:Montserrat;">
+                                        Luxury Shoes </div>
+
+                                    <!-- LAYER NR. 16 -->
+                                    <a class="tp-caption LA_White_btn rev-btn " href="shop-sidebar.html"
+                                        id="slide-6-layer-6" data-x="['left','left','left','left']"
+                                        data-hoffset="['1','1','0','0']" data-y="['top','top','top','top']"
+                                        data-voffset="['225','225','184','142']" data-width="none" data-height="none"
+                                        data-whitespace="nowrap" data-type="button" data-responsive_offset="on"
+                                        data-responsive="off"
+                                        data-frames='[{"delay":"+1270","speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"200","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(207,152,126);bs:solid;bw:0 0 0 0;"}]'
+                                        data-margintop="[0,0,0,0]" data-marginright="[0,0,0,0]"
+                                        data-marginbottom="[0,0,0,0]" data-marginleft="[0,0,0,0]"
+                                        data-textAlign="['inherit','inherit','inherit','inherit']"
+                                        data-paddingtop="[15,15,15,12]" data-paddingright="[45,45,45,35]"
+                                        data-paddingbottom="[15,15,15,12]" data-paddingleft="[45,45,45,35]"
+                                        style="z-index: 8; white-space: nowrap; border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">View
+                                        Now </a>
+                                </div>
+                            </li>
                         </ul>
                         <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
                     </div>
@@ -157,7 +335,7 @@
         <!-- Main Content Wrapper Start -->
         <?php include_once('footer.php') ?>
     
-    </div>
+        </div>
     <!-- Main Wrapper End -->
 
     <?php include_once('scripts.php') ?>
