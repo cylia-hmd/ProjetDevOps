@@ -114,36 +114,13 @@
                         </figure>
                     </a>
                 </div>
-                <div class="col-8">
-                    <ul class="header-toolbar text-end">
-                        <li class="header-toolbar__item user-info-menu-btn">
-                            <a href="#">
-                                <i class="fa fa-user-circle-o"></i>
-                            </a>
-
-                        </li>
-                        <li class="header-toolbar__item">
-                            <a href="#miniCart" class="mini-cart-btn toolbar-btn">
-                                <i class="dl-icon-cart4"></i>
-                                <sup class="mini-cart-count">2</sup>
-                            </a>
-                        </li>
-                        <li class="header-toolbar__item">
-                            <a href="#searchForm" class="search-btn toolbar-btn">
-                                <i class="dl-icon-search1"></i>
-                            </a>
-                        </li>
-                        <li class="header-toolbar__item d-lg-none">
-                            <a href="#" class="menu-btn"></a>
-                        </li>
-                    </ul>
-                </div>
+                
             </div>
             <div class="row">
                 <div class="col-12">
                     <!-- Mobile Navigation Start Here -->
                     <div class="mobile-navigation dl-menuwrapper" id="dl-menu">
-                        <button class="dl-trigger">Open Menu</button>
+                        <button class="dl-trigger"><i class="fa fa-bars" aria-hidden="true"></i></button>
                         <ul class="dl-menu">
                             <li>
                                 <a href="index.php">
@@ -152,8 +129,14 @@
                      
                             </li>
                             <li>
-                                <a href="shop-sidebar.html">
-                                    Shop
+                                <a href="gallery.php">
+                                    Gallery
+                               
+                                </a>
+                                </li>
+                                <li>
+                                <a href="about.php">
+                                    About Us
                                
                                 </a>
                                 </li>

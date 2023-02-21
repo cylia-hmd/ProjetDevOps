@@ -21,7 +21,7 @@
                                 </li>
                                 <li class="contact-info__item">
                                     <i class="fa fa-envelope"></i>
-                                    <span><a href="mailto:passionesgallery@email.com" class="contact-info__link">passionesgallery@email.com</a></span>
+                                    <span><a href="mailto:passionesgallery@email.com" class="contact-info__link">gallery@passiones.site</a></span>
                                 </li>
                                 <li class="contact-info__item">
                                     <i class="fa fa-map-marker"></i>
