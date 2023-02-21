@@ -25,7 +25,7 @@
                         <ul class="mainmenu text-end">
                             <li class="mainmenu__item menu-item-has-children megamenu-holder">
                                 <a href="index.php" class="mainmenu__link">
-                                    <span style="color:black" class="mm-text">Home</span>
+                                    <span style="color:black" class="mm-text">Accueil</span>
                                 </a>
                  
                             </li>
