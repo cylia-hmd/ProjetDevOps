@@ -76,13 +76,13 @@ dream come true. Less is More</li>
                                 </h3>
                                 <p class="color--light-3 mb--25 mb-md--20">We created this website to help women find their own path and character trough shoes. As Marlyn Monroe once said “Give a girl the right shoes and she can conquer the world”</p>
                                 <figure>
-                                    <img src="assets/img/shoe/nude10.jpg" alt="shoes">
+                                    <img src="assets/img/about2.png" alt="shoes" height=650px>
                                 </figure>
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-6">
                             <figure>
-                                <img src="assets/img/shoe/nude15.jpg" alt="about">
+                                <img src="assets/img/about1.png" alt="about">
                             </figure>
                         </div>
                     </div>
@@ -111,7 +111,7 @@ dream come true. Less is More</li>
                         <div class="col-lg-5 col-md-6 order-md-1">
                             <figure class="image-box image-box-w-video-btn btn-right max-w-sm-65 max-w-xs-100">
                                 <a href="https://www.youtube.com/watch?v=ScoGPtsEpyM" class="video-popup">
-                                    <img src="assets/img/shoe/color1.jpg" alt="about">
+                                    <img src="assets/img/about3.png" alt="about">
                                     <span class="video-btn video-btn--2"></span>
                                 </a>
                             </figure>
@@ -139,7 +139,7 @@ dream come true. Less is More</li>
                                         <div class="Passiones-team">
                                             <div class="team-member">
                                                 <div class="team-member__thumbnail">
-                                                    <img src="assets/img/member-1.webp" alt="Team Member">
+                                                    <img src="assets/img/memeber2.png" alt="Team Member" height=400px>
                                                     <a href="team.html" class="link-overlay">Team member</a>
                                                     <div class="team-member__overlay">
                                                         <ul class="social social-round">
@@ -174,7 +174,7 @@ dream come true. Less is More</li>
                                         <div class="airi-team">
                                             <div class="team-member">
                                                 <div class="team-member__thumbnail">
-                                                    <img src="assets/img/member-1.webp" alt="Team Member">
+                                                    <img src="assets/img/member1.png" alt="Team Member" height=400px width=50>
                                                     <a href="team.html" class="link-overlay">Team member</a>
                                                     <div class="team-member__overlay">
                                                         <ul class="social social-round">
@@ -209,7 +209,7 @@ dream come true. Less is More</li>
                                         <div class="airi-team">
                                             <div class="team-member">
                                                 <div class="team-member__thumbnail">
-                                                    <img src="assets/img/member-1.webp" alt="Team Member">
+                                                    <img src="assets/img/member3.jpeg" alt="Team Member">
                                                     <a href="team.html" class="link-overlay">Team member</a>
                                                     <div class="team-member__overlay">
                                                         <ul class="social social-round">
@@ -244,7 +244,7 @@ dream come true. Less is More</li>
                                         <div class="airi-team">
                                             <div class="team-member">
                                                 <div class="team-member__thumbnail">
-                                                    <img src="assets/img/shoe/deco3.jpg".jpg" alt="Team Member">
+                                                    <img src="assets/img/shoe/deco3.jpg" alt="Team Member">
                                                     <a href="team.html" class="link-overlay">Team member</a>
                                                     <div class="team-member__overlay">
                                                         <ul class="social social-round">
