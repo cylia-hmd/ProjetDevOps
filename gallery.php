@@ -5,7 +5,7 @@
 <head>
 
     <!-- Title -->
-    <title>Gallery</title>
+    <title>Our Gallery</title>
     <?php include_once('head.php') ?>
 </head>
 

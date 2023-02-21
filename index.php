@@ -3,7 +3,7 @@
 
 <head>
     <!-- Title -->
-    <title>Theme</title>
+    <title>Passiones Gallery</title>
    <?php include_once('head.php') ?>
 
 </head>
