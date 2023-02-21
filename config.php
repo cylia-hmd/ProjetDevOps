@@ -10,7 +10,7 @@ class Config
     private const host = 'localhost';
     private const user = 'c2062225c_admin';
     private const password = '^edHs;}f?}ll';
-    private const db_name = 'passiones';
+    private const db_name = 'c2062225c_passiones';
 
     private $dsn = 'mysql:host=' . self::host . ';dbname=' . self::db_name . '';
 
